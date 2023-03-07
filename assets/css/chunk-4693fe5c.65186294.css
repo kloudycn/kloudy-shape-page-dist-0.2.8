@@ -1,0 +1,1 @@
+.article_item_container_l{display:grid;gap:30px;grid-template-columns:repeat(auto-fill,minmax(350px,1fr))}@media (max-width:400px){.article_item_container_l{display:flex;flex-direction:column}}

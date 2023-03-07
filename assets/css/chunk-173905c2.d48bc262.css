@@ -1,0 +1,1 @@
+.article_item_container{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(500px,1fr))}@media (max-width:600px){.article_item_container{grid-template-columns:unset}}

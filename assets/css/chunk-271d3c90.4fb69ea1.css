@@ -1,0 +1,1 @@
+h2.count{text-align:center;color:var(--text-light-color);margin-bottom:40px}.lagacy_article_item_container{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));margin-bottom:20px}@media (max-width:500px){.lagacy_article_item_container{grid-template-columns:unset}}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="591px" height="591px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 591 591"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ t="1649069469972"
+ p-id="8086">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#332C2B;stroke-width:1.182;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#C9CACA}
+   ]]>
+  </style>
+ </defs>
+ <g>
+  <path class="fil0" d="M564.981 591l-538.962 0c-0.048,-1.823 -0.079,-3.649 -0.079,-5.483 0,-99.69 70.226,-184.973 169.614,-219.828 27.129,25.437 61.958,40.731 99.946,40.731 37.988,0 72.817,-15.293 99.946,-40.73 99.388,34.855 169.614,120.137 169.614,219.827 0,1.834 -0.032,3.66 -0.079,5.483z"/>
+  <ellipse class="fil0" cx="295.5" cy="229.099" rx="122.126" ry="138.17"/>
+ </g>
+</svg>

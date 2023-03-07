@@ -1,0 +1,1 @@
+#account_home{width:100%}.account_menu_home{display:none}@media (max-width:800px){.account_menu_home{display:block}.account_placeholder_home{display:none}}.account_menu_home{width:100%;margin-top:-10px}.pc_browser .account_menu_home .account_menu_item:hover{background-color:var(--section-inside-color)}
